@@ -1,0 +1,10 @@
+flask
+gunicorn
+numpy
+scikit-learn
+textstat
+
+
+
+# transformers
+# torch
