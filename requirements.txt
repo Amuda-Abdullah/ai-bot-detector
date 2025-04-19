@@ -4,6 +4,8 @@ gunicorn
 numpy
 scikit-learn
 textstat
+requests
+python-dotenv
 
 
 
